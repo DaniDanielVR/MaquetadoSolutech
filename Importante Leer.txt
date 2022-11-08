@@ -1,0 +1,29 @@
+
+- LAS CARPETAS QUE ESTAN EN MAYUSCULA SON LAS CARPETAS CONTENEDORAS DEL CODIGO
+DE CADA OPCION DEL MENU DEL SITIO WEB SOLUTECH
+
+- Antes de iniciar el proceso se debe encender el servidor local (localhost) con los modulos de "Apache"
+ y MySQL
+
+- Para que el proyecto funcione correctamente se debe poner la carpeta maestra "MaquetadoSolutech"
+en la carpeta local de xampp:
+
+	C:\xampp\htdocs\MaquetadoSolutech\
+
+- Se recomienda acceder a la web desde el documento "InicioSolutech.html" el cual esta en la 
+siguiente ubicación: 
+
+	C:\xampp\htdocs\MaquetadoSolutech\INICIO\InicioSolutech.html
+
+
+
+
+
+
+
+
+
+
+
+
+Daniel Valencia Ramírez
